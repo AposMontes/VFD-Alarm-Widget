@@ -1,2 +1,2 @@
 # VFD-Alarm-Widget
-An old style with vacuum fluorescent display alarm widget for Android
+An old style, vacuum fluorescent display alarm widget for Android
